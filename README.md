@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://github.com/andrejb2099/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=andrejb2099&theme=dark&" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=andrejb2099&themedark&" />
 </a>
 <a href="https://github.com/andrejb2099/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrejb2099&theme=dark&layout=compact&langs_count=8&card_width=320" />
