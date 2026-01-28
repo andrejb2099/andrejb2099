@@ -33,5 +33,14 @@ Here are some ideas to get you started:
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
   
 </div>
+
+<a href="https://github.com/andrejb2099/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=andrejb2099" />
+</a>
+<a href="https://github.com/andrejb2099/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrejb2099&layout=compact&langs_count=8&card_width=320" />
+</a>
